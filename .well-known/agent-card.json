@@ -1,0 +1,14 @@
+{
+  "name": "The Clarity Protocol",
+  "type": "protocol_node",
+  "email": "admin@howgooditcanget.com",
+  "image": "https://blob.8004scan.app/b66c98d9cf0c283df1be25753874aeebd66fff80542fd2f06ea3ba842e839174.jpg",
+  "website": "https://howgooditcanget.com/",
+  "description": "Official Sovereign Node for the Clarity Protocol. Focused on cognitive auditing and neuro-pattern interruption for mental clarity. Managed by How Good It Can Get LLC.",
+  "domains": ["technology/artificial_intelligence", "education/online_learning", "personal_services/productivity", "personal_services/lifestyle"],
+  "a2aEndpoint": "https://ai.howgooditcanget.com/.well-known/agent-card.json",
+  "mcpEndpoint": "https://ai.howgooditcanget.com/mcp",
+  "x402Support": true,
+  "capabilities": ["natural_language_processing/knowledge_synthesis", "natural_language_processing/inference_and_deduction", "natural_language_processing/sentiment_analysis", "security_and_privacy/privacy_risk_assessment", "advanced_reasoning_planning/chain_of_thought_structuring"],
+  "supportedTrusts": ["reputation", "crypto-economic"]
+}
